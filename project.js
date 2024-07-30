@@ -12,7 +12,9 @@ const ALL_USERS = [{
 
 },
 {
-    username: "Bhatikapil709@gmail.com",   //  this all is INmemory data 
+    username: "Bhatikapil709@gmail.com",   //  this all is INmemory data which is wrong as we will learn about databases because this data can crash is the servers gets any issues and can be lost and due to this we will use databases and in this case user cannot post hi/her new data or delete and if he/she wants then we will have to introduce newer functins which will make it worse and that is why we will learn about databases
+    
+
     password: "KBX",
     Name:"Kapil Bhati "
 },
